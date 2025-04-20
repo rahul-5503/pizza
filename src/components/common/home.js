@@ -68,7 +68,7 @@ import DialogActions from "@mui/material/DialogActions";
 import DialogContent from "@mui/material/DialogContent";
 import DialogContentText from "@mui/material/DialogContentText";
 import DialogTitle from "@mui/material/DialogTitle";
-import TextareaAutosize from "@mui/base/TextareaAutosize";
+import TextareaAutosize from '@mui/material/TextareaAutosize';
 import ErrorOutlineOutlinedIcon from "@mui/icons-material/ErrorOutlineOutlined";
 import { useNavigate } from "react-router-dom";
 import { Search } from "../common/search/search";
