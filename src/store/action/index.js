@@ -14,8 +14,8 @@ let jsonformdata = {
 
 
 
-const loginUrl = "https://localhost:44330/api/";
-const adminUrl = "https://localhost:44330/api/";
+// const loginUrl = "https://localhost:44330/api/";
+// const adminUrl = "https://localhost:44330/api/";
 //const adminUrl = "https://localhost:44378/api/VSRAdmin/";
 //const agentUrl = "https://localhost:44378/api/AgentmonitorWebAPI/";
 //const callStatusUrl = "https://localhost:44378/api/callstatus/";
@@ -23,6 +23,8 @@ const adminUrl = "https://localhost:44330/api/";
 
 //const loginUrl = "https://phoneorder.co/callcenter/api/VSR/";
 //const adminUrl = "https://phoneorder.co/callcenter/api/VSRAdmin/";
+const adminUrl = "https://vsradminapi.azurewebsites.net/api/";
+const loginUrl = "https://vsradminapi.azurewebsites.net/api/";
 const agentUrl = "https://phoneorder.co/callcenter/api/AgentmonitorWebAPI/";
 const callStatusUrl = "https://phoneorder.co/callcenter/api/callstatus/";
 const ordersUrl = "https://phoneorder.co/callcenter/api/order/";
